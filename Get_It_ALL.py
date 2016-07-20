@@ -7,7 +7,7 @@ import urllib2
 
 gh_url = 'https://api.github.com'
 gh_user= 'riabow'
-gh_pass = 'Keertimc24'
+gh_pass = 'asasas'
 
 req = urllib2.Request(gh_url)
 
