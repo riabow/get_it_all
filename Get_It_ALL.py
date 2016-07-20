@@ -23,7 +23,7 @@ handler = urllib2.urlopen(req)
 
 print handler.getcode()
 print handler.headers.getheader('content-type')
-
+#jhgfjhgf
 
 n=0
 
